@@ -1,0 +1,15 @@
+git init
+
+git add nomeArquivo.extensão
+
+git commit -m "mensagem"
+
+git status
+
+//vincular pasta ao repositório do GitHub
+git remote add origin *endereço do github 
+
+//
+git push -u origin main
+
+git branch -M "main"
